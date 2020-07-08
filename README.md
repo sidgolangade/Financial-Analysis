@@ -1,4 +1,6 @@
-Financial Analysis
+![Python](https://img.shields.io/badge/Python-3.x-red) ![FA](https://img.shields.io/badge/Fiancial-Analysis-blueviolet) ![Status](https://img.shields.io/badge/Status-Completed-success) ![DS](https://img.shields.io/badge/Data-Science-ff69b4)
+
+# Financial Analysis
 
 This Financial Analysis Project is carried out on 4 Banks:
 
@@ -16,10 +18,11 @@ IRELAND Banks:
 
 Project Outputs:
 
-![](Output Images/clustermap.png)
+![CM](Output Images/clustermap.png)
 
-![](Output Images/iplot.png)
+![IP](Output Images/iplot.png)
 
-![](Output Images/smaplot.png)
+![SP](Output Images/smaplot.png)
 
-![](Output Images/candleplot.png)
+![CP](Output Images/candleplot.png)
+
